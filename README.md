@@ -1,2 +1,3 @@
 # Coursera_Capstone
-This is my Capstone project description.
+Capstone: Introduction
+Capstone 1: Clustering
